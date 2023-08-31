@@ -1,4 +1,4 @@
-h1 align = "center">WeWear Fashion🛒</h1>
+h1 align = "center">WeWear🛒</h1>
 
 
 <p align="center">Refresh Your Wardrobe!🛍️ 
