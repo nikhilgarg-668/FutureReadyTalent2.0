@@ -22,5 +22,8 @@ WeWear Fashion doesn't include anything related to database, it is just a HTML, 
  <p align="center">
  Saw all the other pages? Go check it out now!🥳
  https://nikhilgarg-668.github.io/FutureReadyTalent2.0/
-   
+ <br>
+ # Website Link after hosted by Azure Storage account(Static)
+<br>
+  https://wewear1.z19.web.core.windows.net/
 </p>
