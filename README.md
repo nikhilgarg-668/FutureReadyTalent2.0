@@ -20,8 +20,10 @@ WeWear Fashion doesn't include anything related to database, it is just a HTML, 
 
   </p>
  <p align="center">
- Saw all the other pages? Go check it out now!🥳
- https://nikhilgarg-668.github.io/FutureReadyTalent2.0/
+ Saw all the other pages? Go check it out now!
+  <br>
+ https://nikhilgarg-668.github.io/FutureReadyTalent2.0/\
+  <br>
  <br>
  # Website Link after hosted by Azure Storage account(Static)
 <br>
